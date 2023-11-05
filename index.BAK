@@ -2,5 +2,3 @@
 <p>git status</p>
 <p>git diff</p>
 git commit --amend
-<p>コンフリクト２</p>
-<p>コンフリクト３</p>
