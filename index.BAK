@@ -1,4 +1,6 @@
-<h1>hello�@world</h1>
+<h1>hello world</h1>
 <p>git status</p>
 <p>git diff</p>
 git commit --amend
+<p>コンフリクト</p>
+<p>コンフリクト２</p>
